@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Daxo OS – Proof & Development Archive</title>
+    <meta name="description" content="Raw proof and chronological archive showing the development of Daxo OS from scratch.">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header class="header">
+        <div class="container">
+            <h1>Daxo OS Proof Archive</h1>
+            <p class="subtitle">A raw, unfiltered visual log of building a custom x86_64 Rust microkernel from absolute scratch.</p>
+        </div>
+    </header>
+
+    <main class="main container">
+        <!-- Панель фильтров (решает проблему перемешанных скриншотов) -->
+        <div class="filter-bar">
+            <button class="filter-btn active" data-filter="all">All Proofs</button>
+            <button class="filter-btn" data-filter="boot">Bootloader & VGA</button>
+            <button class="filter-btn" data-filter="memory">Memory & Paging</button>
+            <button class="filter-btn" data-filter="drivers">ATA & Drivers</button>
+            <button class="filter-btn" data-filter="userspace">Ring 3 / User Space</button>
+        </div>
+
+        <!-- Сетка скриншотов -->
+        <div class="gallery-grid">
+            
+            <!-- Скриншот 1 (Пример категории boot) -->
+            <div class="gallery-item" data-category="boot">
+                <div class="img-wrapper">
+                    <img src="assets/images/screenshot1.jpg" alt="Early Boot" loading="lazy">
+                </div>
+                <div class="item-info">
+                    <span class="tag boot">Bootloader</span>
+                    <h3>Initial Real Mode / Protected Mode Switch</h3>
+                    <p class="date">Day 1 — First text output buffer verification.</p>
+                </div>
+            </div>
+
+            <!-- Скриншот 2 (Пример категории memory) -->
+            <div class="gallery-item" data-category="memory">
+                <div class="img-wrapper">
+                    <img src="assets/images/screenshot2.jpg" alt="Paging" loading="lazy">
+                </div>
+                <div class="item-info">
+                    <span class="tag memory">Memory</span>
+                    <h3>4-Level Paging Tables Setup</h3>
+                    <p class="date">Day 14 — Setting up virtual memory isolation.</p>
+                </div>
+            </div>
+
+            <!-- Скриншот 3 (Пример категории userspace) -->
+            <div class="gallery-item" data-category="userspace">
+                <div class="img-wrapper">
+                    <img src="assets/images/screenshot3.png" alt="Ring 3" loading="lazy">
+                </div>
+                <div class="item-info">
+                    <span class="tag userspace">User Space</span>
+                    <h3>Transition to Ring 3</h3>
+                    <p class="date">Day 45 — Running user tasks separated from kernel space.</p>
+                </div>
+            </div>
+
+            <!-- Добавьте свои карточки по аналогии, меняя data-category и содержимое -->
+
+        </div>
+    </main>
+
+    <!-- Модальное окно для просмотра картинок в полный размер -->
+    <div id="lightbox" class="lightbox">
+        <span class="close-btn">&times;</span>
+        <img class="lightbox-content" id="lightbox-img">
+        <div id="lightbox-caption"></div>
+    </div>
+
+    <footer class="footer">
+        <div class="container">
+            <p>&copy; 2026 Daxo Developer. Built from bare metal up.</p>
+            <p><a href="https://github.com/daxo-developer/daxo_os">GitHub Repository</a></p>
+        </div>
+    </footer>
+
+    <script src="app.js"></script>
+</body>
+</html>
