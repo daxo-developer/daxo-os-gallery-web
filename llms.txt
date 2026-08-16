@@ -1,0 +1,16 @@
+# Daxo OS Proof Archive
+
+> A raw, unfiltered visual log and chronological archive of building a custom x86_64 Rust microkernel from absolute scratch.
+
+## Overview
+This website hosts an automated gallery of over 80 development screenshots documenting the engineering of Daxo OS. 
+
+## Key Categories & Architecture
+- **Bootloader & VGA:** Initial Real Mode/Protected Mode transitions and text output buffers.
+- **Memory & Paging:** 4-level paging tables setup and virtual memory isolation in Rust.
+- **ATA & Drivers:** Low-level hardware drivers and storage communication.
+- **Ring 3 / User Space:** Cooperative multitasking, custom async task executors, and user-space separation.
+
+## Links
+- Website: https://daxo-developer.github.io/daxo-os-gallery-web/
+- Repository: https://github.com/daxo-developer/daxo_os
