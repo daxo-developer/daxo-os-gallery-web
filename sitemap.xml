@@ -1,9 +1,145 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <url>
         <loc>https://daxo-developer.github.io/daxo-os-gallery-web/</loc>
-        <lastmod>2026-08-17</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
+        
+        <image:image>
+            <image:loc>https://raw.githubusercontent.com/daxo-developer/daxo-os-gallery-web/main/assets/images/IMG_20260815_203212_754.jpg</image:loc>
+            <image:title>Daxo OS Development Snapshot</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>https://raw.githubusercontent.com/daxo-developer/daxo-os-gallery-web/main/assets/images/IMG_20260815_203212_929.jpg</image:loc>
+            <image:title>Daxo OS Development Snapshot</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>https://raw.githubusercontent.com/daxo-developer/daxo-os-gallery-web/main/assets/images/IMG_20260815_203213_026.jpg</image:loc>
+            <image:title>Daxo OS Development Snapshot</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>https://raw.githubusercontent.com/daxo-developer/daxo-os-gallery-web/main/assets/images/IMG_20260815_203213_191.jpg</image:loc>
+            <image:title>Daxo OS Development Snapshot</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>https://raw.githubusercontent.com/daxo-developer/daxo-os-gallery-web/main/assets/images/IMG_20260815_203213_266.jpg</image:loc>
+            <image:title>Daxo OS Development Snapshot</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>https://raw.githubusercontent.com/daxo-developer/daxo-os-gallery-web/main/assets/images/IMG_20260815_203213_301.jpg</image:loc>
+            <image:title>Daxo OS Development Snapshot</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>https://raw.githubusercontent.com/daxo-developer/daxo-os-gallery-web/main/assets/images/IMG_20260815_203216_500.jpg</image:loc>
+            <image:title>Daxo OS Development Snapshot</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>https://raw.githubusercontent.com/daxo-developer/daxo-os-gallery-web/main/assets/images/IMG_20260815_203216_530.jpg</image:loc>
+            <image:title>Daxo OS Development Snapshot</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>https://raw.githubusercontent.com/daxo-developer/daxo-os-gallery-web/main/assets/images/IMG_20260815_203216_606.jpg</image:loc>
+            <image:title>Daxo OS Development Snapshot</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>https://raw.githubusercontent.com/daxo-developer/daxo-os-gallery-web/main/assets/images/IMG_20260815_203216_820.jpg</image:loc>
+            <image:title>Daxo OS Development Snapshot</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>https://raw.githubusercontent.com/daxo-developer/daxo-os-gallery-web/main/assets/images/IMG_20260815_203216_969.jpg</image:loc>
+            <image:title>Daxo OS Development Snapshot</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>https://raw.githubusercontent.com/daxo-developer/daxo-os-gallery-web/main/assets/images/IMG_20260815_203216_987.jpg</image:loc>
+            <image:title>Daxo OS Development Snapshot</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>https://raw.githubusercontent.com/daxo-developer/daxo-os-gallery-web/main/assets/images/IMG_20260815_203217_019.jpg</image:loc>
+            <image:title>Daxo OS Development Snapshot</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>https://raw.githubusercontent.com/daxo-developer/daxo-os-gallery-web/main/assets/images/IMG_20260815_203217_049.jpg</image:loc>
+            <image:title>Daxo OS Development Snapshot</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>https://raw.githubusercontent.com/daxo-developer/daxo-os-gallery-web/main/assets/images/IMG_20260815_203219_666.jpg</image:loc>
+            <image:title>Daxo OS Development Snapshot</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>https://raw.githubusercontent.com/daxo-developer/daxo-os-gallery-web/main/assets/images/IMG_20260815_203219_680.jpg</image:loc>
+            <image:title>Daxo OS Development Snapshot</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>https://raw.githubusercontent.com/daxo-developer/daxo-os-gallery-web/main/assets/images/IMG_20260815_203219_693.jpg</image:loc>
+            <image:title>Daxo OS Development Snapshot</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>https://raw.githubusercontent.com/daxo-developer/daxo-os-gallery-web/main/assets/images/IMG_20260815_203219_781.jpg</image:loc>
+            <image:title>Daxo OS Development Snapshot</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>https://raw.githubusercontent.com/daxo-developer/daxo-os-gallery-web/main/assets/images/IMG_20260815_203219_886.jpg</image:loc>
+            <image:title>Daxo OS Development Snapshot</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>https://raw.githubusercontent.com/daxo-developer/daxo-os-gallery-web/main/assets/images/IMG_20260815_203219_913.jpg</image:loc>
+            <image:title>Daxo OS Development Snapshot</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>https://raw.githubusercontent.com/daxo-developer/daxo-os-gallery-web/main/assets/images/IMG_20260815_203220_263.jpg</image:loc>
+            <image:title>Daxo OS Development Snapshot</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>https://raw.githubusercontent.com/daxo-developer/daxo-os-gallery-web/main/assets/images/IMG_20260815_203220_409.jpg</image:loc>
+            <image:title>Daxo OS Development Snapshot</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>https://raw.githubusercontent.com/daxo-developer/daxo-os-gallery-web/main/assets/images/IMG_20260815_203226_805.jpg</image:loc>
+            <image:title>Daxo OS Development Snapshot</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>https://raw.githubusercontent.com/daxo-developer/daxo-os-gallery-web/main/assets/images/IMG_20260815_203226_904.jpg</image:loc>
+            <image:title>Daxo OS Development Snapshot</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>https://raw.githubusercontent.com/daxo-developer/daxo-os-gallery-web/main/assets/images/IMG_20260815_203227_095.jpg</image:loc>
+            <image:title>Daxo OS Development Snapshot</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>https://raw.githubusercontent.com/daxo-developer/daxo-os-gallery-web/main/assets/images/IMG_20260815_203227_206.jpg</image:loc>
+            <image:title>Daxo OS Development Snapshot</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>https://raw.githubusercontent.com/daxo-developer/daxo-os-gallery-web/main/assets/images/IMG_20260815_210341_428.jpg</image:loc>
+            <image:title>Daxo OS Development Snapshot</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>https://raw.githubusercontent.com/daxo-developer/daxo-os-gallery-web/main/assets/images/IMG_20260815_212403_459.jpg</image:loc>
+            <image:title>Daxo OS Development Snapshot</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>https://raw.githubusercontent.com/daxo-developer/daxo-os-gallery-web/main/assets/images/IMG_20260815_212406_735.jpg</image:loc>
+            <image:title>Daxo OS Development Snapshot</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>https://raw.githubusercontent.com/daxo-developer/daxo-os-gallery-web/main/assets/images/IMG_20260815_213902_934.jpg</image:loc>
+            <image:title>Daxo OS Development Snapshot</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>https://raw.githubusercontent.com/daxo-developer/daxo-os-gallery-web/main/assets/images/IMG_20260815_213903_735.jpg</image:loc>
+            <image:title>Daxo OS Development Snapshot</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>https://raw.githubusercontent.com/daxo-developer/daxo-os-gallery-web/main/assets/images/IMG_20260815_222129_405.jpg</image:loc>
+            <image:title>Daxo OS Development Snapshot</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>https://raw.githubusercontent.com/daxo-developer/daxo-os-gallery-web/main/assets/images/IMG_20260816_223836_490.jpg</image:loc>
+            <image:title>Daxo OS Development Snapshot</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>https://raw.githubusercontent.com/daxo-developer/daxo-os-gallery-web/main/assets/images/screenshot3.png</image:loc>
+            <image:title>Daxo OS Development Snapshot</image:title>
+        </image:image>
+        
     </url>
 </urlset>
